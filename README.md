@@ -1,2 +1,4 @@
 # About_me
-Mi presentación en sitio web
+## Mi presentación hecha sitio web
+---
+> 🚧 Nota: Aún en desarrollo (Mientras domino mejor el css💪) 
